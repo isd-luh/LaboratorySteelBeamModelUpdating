@@ -20,7 +20,7 @@ clc
 % downloaded from Wolniak et al. (2024),  https://doi.org/10.25835/r8pevw8m
 %
 % References:
-% Dierksen et al. (2024), doi: *will be added after publication*
+% Dierksen et al. (2024), doi: 10.1016/j.ymssp.2024.112259
 % Wolniak et al. (2024), doi: 10.25835/r8pevw8m
 % Wolniak et al. (2023), doi: 10.1007/s13349-023-00701-9
 % Wolniak et al (2023), preprint available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991201
